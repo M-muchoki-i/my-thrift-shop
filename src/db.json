@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "womens rings",
+      "price": "100",
+      "quality": "4 pieces per pack",
+      "quantity": "4 packets",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvCvNxm-PJhDjB8dNY3-3LPd1Y9hQpiwbcQ&s"
+    },
+    {
+      "id": "2",
+      "name": "silver-plated-rings",
+      "price": "100",
+      "quality": "4 pieces per pack",
+      "quantity": "4 packets",
+      "image": "https://m.media-amazon.com/images/I/51iQ8lQ1dCL._AC_UY1000_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "men-silve-rings",
+      "price": "350",
+      "quality": "5 pieces per pack",
+      "quantity": "10 packets",
+      "image": "https://m.media-amazon.com/images/I/71K1Tkxk0EL._AC_UY1000_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "gold-plated-rings",
+      "price": "1000",
+      "quality": "12 pieces per pack",
+      "quantity": "8 packets",
+      "image": "https://assets.benchmarkrings.com/media/6338011_as-homepageimage_original.jpg?1715882432"
+    },
+    {
+      "id": "5",
+      "name": "smart-perfume-collection",
+      "price": "250 each",
+      "quality": "4 pieces per pack",
+      "quantity": "20 packets",
+      "image": "https://res.cloudinary.com/vendors-so/image/upload/v1625494929/y1uqgnjblv7s8t03ravr.jpg"
+    },
+    {
+      "id": "6",
+      "name": "versman perfume",
+      "price": "3000",
+      "quality": "1 piece",
+      "quantity": "15 pieces",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRClx9CB879N0ST25nK9BTwO5Ed3pRn9DMrMA&s"
+    },
+    {
+      "id": "7",
+      "name": "long lasting perfume",
+      "price": "2500",
+      "quality": "1 piece",
+      "quantity": "20 pieces",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1723238657-untitled-1-recovered-66b688fd958e2.png?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "id": "8",
+      "name": "silver-plated-earrings",
+      "price": "100",
+      "quality": "4 pieces per pack",
+      "quantity": "4 packets",
+      "image": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/Search/Lge/502808.jpg?im=Resize,width=450"
+    },
+    {
+      "id": "9",
+      "name": "womens-diamond-earrings",
+      "price": "5000",
+      "quality": "one pair",
+      "quantity": "100 packets",
+      "image": "https://www.efifdiamonds.com/cdn/shop/products/ADCSER_0087_-1_800x.jpg?v=1721992071"
+    },
+    {
+      "id": "10",
+      "name": " denri-womens-handbag",
+      "price": "1500",
+      "quality": "one pair",
+      "quantity": "40 pieces",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-1u83a1QOhMJ7cV5OFxvhxgWZMda1jgjVA&s"
+    },
+    {
+      "id": "11",
+      "name": "slingbag",
+      "price": "300",
+      "quality": "one pair",
+      "quantity": "20 pieces",
+      "image": "https://down-my.img.susercontent.com/file/my-11134207-7r98t-lsta88m1ytk4e0"
+    },
+    {
+      "id": "12",
+      "name": "totebag",
+      "price": "100 each",
+      "quality": "one",
+      "quantity": "100 pieces",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1gxVim9-e_x3INPYj5O16ujM84CbuEQJdhg&s"
+    },
+    {
+      "id": "13",
+      "name": "mens wallet",
+      "price": "100",
+      "quality": "one pair",
+      "quantity": "100 packets",
+      "image": "https://mobigear.co.ke/wp-content/uploads/2023/09/BISON-DENIM-Black-Purse-For-Men-Genuine-Leather-Men-s-Wallets-Thin-Male-Wallet-Card-Holder.jpg_-4.webp"
+    },
+    {
+      "id": "14",
+      "name": "mens-watch",
+      "price": "500",
+      "quality": "one piece",
+      "quantity": "10 pieces",
+      "image": "https://www.theluxuryhut.com/admin/upload/1711977693top-luxury-men-s-watches-for-spring-2024.jpg"
+    },
+    {
+      "id": "15",
+      "name": "womens-watch",
+      "price": "500",
+      "quality": "one piece",
+      "quantity": "5 pieces",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjz9GSB0e08-iB6HiYTPwZu8j5nMPJE_Mcg&s"
+    },
+    {
+      "id": "16",
+      "name": "cat eyes glasses",
+      "price": "800",
+      "quality": "one piece",
+      "quantity": "30 pieces",
+      "image": "https://ae01.alicdn.com/kf/Se5ce69a483fd434cb5a4b8480b55f80fJ.jpg"
+    },
+    {
+      "id": "17",
+      "name": "mens glasses",
+      "price": "800",
+      "quality": "one piece",
+      "quantity": "30 pieces",
+      "image": "https://down-ph.img.susercontent.com/file/f9a6e048d408209a9188413f8e222d45"
+    },
+    {
+      "id": "18",
+      "name": " girls-lockets",
+      "price": "300",
+      "quality": "one piece",
+      "quantity": "30 pieces",
+      "image": "https://images.meesho.com/images/products/402002153/tt3w7_512.webp"
+    },
+    {
+      "id": "19",
+      "name": " mens-lockets",
+      "price": "300",
+      "quality": "one piece",
+      "quantity": "30 pieces",
+      "image": "https://i.ytimg.com/vi/lZv_5qQK4Jo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5Z6X6_4MBngkDHNaAN1pFLyFaGA"
+    },
+    {
+      "id": "20",
+      "name": " crystal-bracelet",
+      "price": "150",
+      "quality": "one piece",
+      "quantity": "20 pieces",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkP42eGPWKoOvTnSBjUM-90xr_saATg8-Jg&s"
+    }
+  ]
+}
