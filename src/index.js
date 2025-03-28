@@ -14,9 +14,14 @@ function displayItems(items) {
   items.forEach((item) => {
     const itemDiv = document.createElement("div");
     itemDiv.classList.add("item");
+    // Format the price in KES
+    const formattedPrice = new Intl.NumberFormat("en-US", {
+      style: "currency",
+      currency: "KES", // Use KES for currency
+    }).format(item.price);
     itemDiv.innerHTML = `
       <h2>${item.name}</h2>
-      <p>Price: $${item.price}</p>
+      <p>Price: ${formattedPrice}</p>
       <p>Quality: ${item.quality}</p>
       <p>Quantity: ${item.quantity}</p>
       <img src="${item.image}" alt="${item.name}" style="width:200px;height:auto;">
@@ -61,12 +66,7 @@ document.getElementById("search-input").addEventListener("input", function () {
     .catch((error) => console.error("Error:", error));
 });
 
-// Event listener for toggle dark mode button 
-document
-  .getElementById("toggle-dark-mode")
-  .addEventListener("click", function () {
-    document.body.classList.toggle("dark-mode");
-  });
+
 
 // Event listener for sort by price button
 document.getElementById("sort-price").addEventListener("click", function () {
@@ -81,14 +81,10 @@ document.getElementById("sort-price").addEventListener("click", function () {
 
 // Event listener for mouseover on items
 document.addEventListener("mouseover", function (event) {
-  if (event.target.classList.contains("item")) {
-    event.target.style.boxShadow = "0 0 10px rgba(0,0,0,0.3)";
-  }
+  if (event.target.classList.contains("item")) {}
 });
 
 // Event listener for mouseout on items
 document.addEventListener("mouseout", function (event) {
-  if (event.target.classList.contains("item")) {
-    event.target.style.boxShadow = "0 0 5px rgba(0,0,0,0.1)";
-  }
+  if (event.target.classList.contains("item")) {}
 });

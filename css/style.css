@@ -7,22 +7,21 @@ body {
 }
 
 .header {
-    background-color: #f4f4f4;
-    padding: 10px;
+    background-color: #f7eff4;
+    padding: 60px;
     position: sticky;
     top: 0;
     width: 100%;
-    
-
-
+    background-image: url(https:png.pngtree.com/thumb_back/fh260/background/20210422/pngtree-blue-pink-gradient-star-dream-princess-background-image_649075.jpg);
 
 }
 
 .header input[type="text"] {
     width: 50%;
     padding: 8px;
-    border: 1px solid #ddd;
+    border: 1px solid #1b9a16;
     border-radius: 4px;
+
 }
 
 #items-container {
@@ -31,21 +30,22 @@ body {
     /* Allow items to wrap to the next line */
     justify-content: center;
     /* Center items horizontally */
-    padding: 50px;
+    padding: 20px;
 
 
 }
 
 .item {
     margin: 0px;
-    padding: 10px;
+    padding: 30px;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
 
 .item img {
-    margin: 20px ;
+    margin: 10px;
+    width: 50px;
 }
 
 
@@ -53,13 +53,48 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: aquamarine;
+    
 }
-p{
+
+p {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
-    padding: 2%;
-    color:darkmagenta
+
+    color:red;
+
+}
+
+#search-input {
+    width: 200px;
+    height: 20px;
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    display: block;
+    /* Make it a block element to center */
+    margin: 10px auto;
+    /* Center horizontally with some top margin */
+
+}
+
+.footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    /* Keeps the footer at the bottom of the page */
+    width: 100%;
+    justify-content: center;
+    display: flex;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    flex-direction: column;
 }

@@ -18,7 +18,7 @@
     },
     {
       "id": "3",
-      "name": "men-silve-rings",
+      "name": "men-silver-rings",
       "price": "350",
       "quality": "5 pieces per pack",
       "quantity": "10 packets",
@@ -159,6 +159,38 @@
       "quality": "one piece",
       "quantity": "20 pieces",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkP42eGPWKoOvTnSBjUM-90xr_saATg8-Jg&s"
+    },
+    {
+      "id": "21",
+      "name": " pearl-bracelet",
+      "price": "150",
+      "quality": "one piece",
+      "quantity": "20 pieces",
+      "image": "https://images.meesho.com/images/products/424660605/2jtha_512.webp"
+    },
+    {
+      "id": "22",
+      "name": " waist-beeds",
+      "price": "150",
+      "quality": "one piece",
+      "quantity": "100 pieces",
+      "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019_5/Waist_Beads_1296x728-header.jpg?w=1155&h=1528"
+    },
+    {
+      "id": "23",
+      "name": " body-splash",
+      "price": "250",
+      "quality": "one piece",
+      "quantity": "100 pieces",
+      "image": "https://bubblzzeg.com/cdn/shop/collections/Body_Splashes2.jpg?v=1699354938"
+    },
+    {
+      "id": "24",
+      "name": " Men's bag",
+      "price": "2000",
+      "quality": "one piece",
+      "quantity": "100 pieces",
+      "image": "https://lh4.googleusercontent.com/proxy/gD27izv2-vVx0TVpWLfzBT7sKgTqKBoN-B8lKmWbcW4KJoBnwfxqmQRzaqC_BuaBYe-yH6z08q97gcAdzBWfTtPZ6c9M_NMCweSpDp6tKF0l"
     }
   ]
 }
